@@ -1,5 +1,5 @@
 # HeterosisRcpp
-Speeding up Heterosis-GRN-Simulation using Rcpp
+Speeding up Heterosis-GRN-Simulation using Rcpp  
 This project is on-going. More Rcpp codes would be posted after testing.
 
 Usages:  
